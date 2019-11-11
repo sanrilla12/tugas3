@@ -1,0 +1,28 @@
+body{
+	background-color: lightgrey;
+	font-family: 'Roboto', sans-serif;
+	color: black; 
+}
+
+.table {
+	font-family: 'Roboto', sans-serif;
+	color: #444;
+	width: 50%;
+	border: 1px solid #f2f5f7;
+	margin-top:50px;
+}
+
+.tabel1 tr th {
+	background: #35a9db;
+	color:#fff;
+	font-weight: normal;
+}
+
+.tabel1, th, td{
+	padding:8px 20px;
+	text-align-last: center;
+}
+
+.tabel1 tr:nth-child(even){
+	background: #86dcec;
+}

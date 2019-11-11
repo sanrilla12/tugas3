@@ -1,0 +1,14 @@
+body {
+	background-color: lightpink;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+
+.keluarga
+{
+    padding: 5px 10px;
+    font-size: 20px;
+    line-height: 40px;
+    color: black ;
+
+}
